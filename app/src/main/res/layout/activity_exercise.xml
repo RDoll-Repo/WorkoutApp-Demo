@@ -48,7 +48,7 @@
             android:progress="100"
             android:rotation="-90"
             android:background="@drawable/circular_progress_gray"
-            android:progressDrawable="@drawable/circular_progress_gray"
+            android:progressDrawable="@drawable/circular_progress_bar"
             android:indeterminate="false"/>
 
         <LinearLayout
